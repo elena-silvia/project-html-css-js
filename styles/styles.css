@@ -1,0 +1,25 @@
+p {color:
+     #b81919;
+        width: 500px;
+        border: 1px solid black;
+
+    }
+li{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+html{
+    background-color: aquamarine;
+}
+body{
+    background-color: aliceblue;
+    border: 5px #b81919;
+    padding: 0 20px 20px 20px;
+}
+img{
+    max-width: 50%;
+}
+.done{
+    color:blueviolet;
+    text-decoration: line-through solid black 2px;
+}
